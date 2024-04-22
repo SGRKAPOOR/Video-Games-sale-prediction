@@ -39,8 +39,4 @@ This project delves into video game sales prediction using machine learning. By 
 
 This project successfully developed and evaluated machine learning models for predicting video game sales. The Gradient Boosting Regression algorithm emerged as the most effective model for accurate sales predictions. Insights gleaned from this project can be immensely valuable for stakeholders in the gaming industry, enabling well-informed decisions and strategic resource allocation.
 
-## Next Steps
 
-- Investigate advanced regression techniques like XGBoost and Neural Networks for potential performance improvements.
-- Refine feature engineering processes to incorporate additional relevant features or transformations.
-- Consider integrating e
